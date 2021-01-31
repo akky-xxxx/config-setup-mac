@@ -1,0 +1,3 @@
+.ideta/
+*.retry
+/roles/awscli/vars/main.yml

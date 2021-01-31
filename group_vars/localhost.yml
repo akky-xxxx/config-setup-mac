@@ -1,0 +1,45 @@
+homebrew_taps:
+  - homebrew/bundle
+  - homebrew/cask
+  - homebrew/core
+homebrew_cask_packages:
+  - 1password
+  # - alfred ver3 を手動でインスコする
+  - appcleaner
+  - charles
+  - docker
+  - firefox
+  - fork
+  - google-chrome
+  - google-cloud-sdk
+  - google-japanese-ime
+  - iterm2
+  - linear
+  - memory-clean-3
+  - postman
+  - stack-stack
+  - sublime-text
+  - visual-studio-code
+  - WebStorm
+  - zoom
+homebrew_packages:
+  - ansible
+  - docker
+  - git
+  - jq
+  - mas
+  - nodebrew
+  - wget
+  - yarn
+  - zsh
+app_store_packages:
+  - id: 937984704
+    name: Amphetamine
+  - id: 1091189122
+    name: Bear
+  - id: 417375580
+    name: Better Snap Tool
+  - id: 1295203466
+    name: Microsoft Remote Desktop
+  - id: 540348655
+    name: MonoSnap

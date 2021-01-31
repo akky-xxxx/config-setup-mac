@@ -1,0 +1,11 @@
+- block:
+
+    - name: mas install
+      script: 'mas.sh {{ item.id }}'
+      with_items: '{{ app_store_packages }}'
+      register: result
+      changed_when: result.rc == 1
+      failed_when: result.rc not in [0, 1]
+
+  tags:
+    - app_store
