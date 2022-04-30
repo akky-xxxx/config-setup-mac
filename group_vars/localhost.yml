@@ -29,6 +29,7 @@ homebrew_packages:
   - git
   - jq
   - mas
+  - terraform
   - nodebrew
   - wget
   - yarn
