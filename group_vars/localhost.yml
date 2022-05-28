@@ -5,6 +5,7 @@ homebrew_taps:
 homebrew_cask_packages:
   - 1password
   # - alfred ver3 を手動でインスコする
+  - WebStorm
   - appcleaner
   - charles
   - docker
@@ -19,9 +20,8 @@ homebrew_cask_packages:
   - postman
   - stack-stack
   - sublime-text
-  - visual-studio-code
   - virtualbox
-  - WebStorm
+  - visual-studio-code
   - zoom
 homebrew_packages:
   - ansible
@@ -29,9 +29,9 @@ homebrew_packages:
   - git
   - jq
   - mas
+  - nodebrew
   - peco
   - terraform
-  - nodebrew
   - wget
   - yarn
   - zsh
