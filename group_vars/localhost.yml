@@ -24,6 +24,7 @@ homebrew_cask_packages:
   - zoom
 homebrew_packages:
   - ansible
+  - bat
   - docker
   - fzf
   - git
