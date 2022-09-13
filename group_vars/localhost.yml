@@ -25,6 +25,7 @@ homebrew_cask_packages:
 homebrew_packages:
   - ansible
   - docker
+  - fzf
   - git
   - jq
   - mas
