@@ -6,7 +6,6 @@ homebrew_cask_packages:
   - 1password
   # - alfred ver3 を手動でインスコする
   - WebStorm
-  - appcleaner
   - charles
   - docker
   - firefox
