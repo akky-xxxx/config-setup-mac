@@ -32,6 +32,7 @@ homebrew_packages:
   - mas
   - peco
   - terraform
+  - tldr
   - wget
   - yarn
   - zsh
