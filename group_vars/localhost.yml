@@ -6,6 +6,7 @@ homebrew_cask_packages:
   - 1password
   # - alfred ver3 を手動でインスコする
   - WebStorm
+  - brave-browser
   - charles
   - docker
   - firefox
