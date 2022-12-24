@@ -8,9 +8,11 @@ homebrew_cask_packages:
   - WebStorm
   - brave-browser
   - charles
+  - cleanmymac
   - docker
   - firefox
   - fork
+  - gemini
   - google-chrome
   - google-cloud-sdk
   - google-japanese-ime
