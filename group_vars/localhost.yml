@@ -18,7 +18,6 @@ homebrew_cask_packages:
   - google-japanese-ime
   - iterm2
   - linear
-  - memory-clean-3
   - postman
   - stack-stack
   - sublime-text
