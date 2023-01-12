@@ -32,11 +32,3 @@ ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
 done
 
 exec $SHELL -l
-
-# install latest Node.js of LTS
-nodebrew install-binary v${NODE_VERSION}
-nodebrew use v${NODE_VERSION}
-
-# install avn
-npm innstall -g avn avn-nodebrew
-avn setup
