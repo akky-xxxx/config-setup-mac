@@ -19,11 +19,8 @@ homebrew_cask_packages:
   - iterm2
   - linear
   - postman
-  - stack-stack
   - sublime-text
-  - virtualbox
   - visual-studio-code
-  - zoom
 homebrew_packages:
   - ansible
   - bat
@@ -37,7 +34,6 @@ homebrew_packages:
   - tldr
   - wget
   - yarn
-  - zsh
 app_store_packages:
   - id: 937984704
     name: Amphetamine
