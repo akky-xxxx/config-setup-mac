@@ -37,11 +37,7 @@ homebrew_packages:
 app_store_packages:
   - id: 937984704
     name: Amphetamine
-  - id: 1091189122
-    name: Bear
   - id: 417375580
     name: Better Snap Tool
-  - id: 1295203466
-    name: Microsoft Remote Desktop
   - id: 540348655
     name: MonoSnap
