@@ -4,23 +4,27 @@ homebrew_taps:
   - homebrew/core
 homebrew_cask_packages:
   - 1password
-  # - alfred ver3 を手動でインスコする
   - WebStorm
+  - biscuit
   - brave-browser
-  - charles
+  - browserosaurus
   - cleanmymac
+  - codex-app
   - docker
   - firefox
   - fork
   - gemini
   - google-chrome
+  - google-chrome@beta
+  - google-chrome@canary
+  - google-chrome@dev
   - google-cloud-sdk
   - google-japanese-ime
-  - iterm2
-  - linear
-  - postman
-  - sublime-text
+  - raycast
   - visual-studio-code
+  - warp
+  - yoink
+  - zoom
 homebrew_packages:
   - ansible
   - bat
@@ -33,11 +37,8 @@ homebrew_packages:
   - terraform
   - tldr
   - wget
-  - yarn
 app_store_packages:
   - id: 937984704
     name: Amphetamine
-  - id: 417375580
-    name: Better Snap Tool
   - id: 540348655
     name: MonoSnap
