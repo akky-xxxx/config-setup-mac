@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ANSIBLE_PATH=~/workspace/settings/setup-mac
-NODE_VERSION=14.15.4
 
 ## command line tools
 xcode-select --install
