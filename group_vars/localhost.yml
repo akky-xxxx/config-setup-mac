@@ -7,7 +7,7 @@ homebrew_cask_packages:
   - browserosaurus
   - cleanmymac
   - codex-app
-  - docker
+  # - docker
   - firefox
   - fork
   - gemini
@@ -16,12 +16,11 @@ homebrew_cask_packages:
   - google-chrome@canary
   - google-chrome@dev
   - google-cloud-sdk
-  - google-japanese-ime
+  # - google-japanese-ime
   - raycast
   - visual-studio-code
   - warp
-  - yoink
-  - zoom
+  # - yoink
 homebrew_packages:
   - ansible
   - bat
