@@ -1,3 +1,4 @@
+homebrew_taps: []
 homebrew_cask_packages:
   - 1password
   - WebStorm
